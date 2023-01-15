@@ -1,0 +1,46 @@
+body
+{
+    margin: 0px;
+}
+header
+{
+    background-color: rgb(255, 213, 162);
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    float: left;
+    background-color: rgb(191, 112, 17);
+    color: white;
+    text-align: center;
+    font-size: 150%;
+    width: 25%;
+}
+main{
+    clear: both;
+    height: 400px;
+}
+footer{
+    background-color: rgb(191, 112, 17);
+    color: white;
+    text-align: right;
+    font-size: 150%;
+}
+a{
+    color: white;
+}
+button
+{
+    background-color: brown;
+    border: 2px solid brown;
+    font-weight: 900;
+    padding: 10px;
+    color: white;
+}
+#TekstPrzedButtonem
+{
+   margin: 0;
+   width: 200px;
+   padding: 0;
+   float: left;
+}
